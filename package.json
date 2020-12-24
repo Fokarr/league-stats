@@ -1,17 +1,16 @@
 {
-  "name": "leaggue-stats",
+  "name": "noxus",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get your LoL Account Information just by providing your API Key and Summoner name",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node index.js"
   },
-  "author": "",
+  "author": "Fokarr",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
-    "dotenv": "^8.2.0",
-    "nodemon": "^2.0.6"
+    "dotenv": "^8.2.0"
   }
 }
